@@ -1,0 +1,39 @@
+@import "tailwindcss";
+#root {
+  width: 100%;
+  height: fit-content;
+  color: white;
+}
+/* .nav{
+  gap: 200px;
+}
+.nav h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.7em;
+  position: relative;
+}
+.nav h2 span{
+  font-size: 0.7em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  position: absolute;
+  top: 25px;
+  left: 30px;
+}
+nav > ul {
+  display: flex;
+  gap: 30px;
+}
+nav ul li{
+  padding: 2%;
+}
+nav ul li:hover{
+  color: green;
+  border-bottom: 1px solid green;
+  font-weight: 600;
+  transition: 0.5s ease;
+  transform: scaleX(1.1);
+  cursor: pointer;
+} */
+
+
+
