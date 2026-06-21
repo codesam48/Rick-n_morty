@@ -16,10 +16,10 @@ function Nav({open, close}){
                         <p>Any questions or suggestions?? <br /> Reach Out </p>
                     </div>
                     <div className="flex gap-4 ">
-                        <a href="mailto:"><FaEnvelope/></a>
-                        <a href=""><FaGithub/> </a>
-                        <a href=""><FaInstagram/></a>
-                        <a href=""><FaWhatsapp/></a>
+                        <a href="mailto:ssamwokos48@gmail.com"><FaEnvelope/></a>
+                        <a href="https://github.com/codesam48"><FaGithub/> </a>
+                        <a href="https://www.instagram.com/codesam48?igsh=MXdocWt5ZGcxY3ZwaA=="><FaInstagram/></a>
+                        <a href="https://wa.me/2349079658222"><FaWhatsapp/></a>
                         <a href=""><FaFacebook/></a>
                     </div>
                 </nav>
