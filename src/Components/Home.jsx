@@ -27,7 +27,7 @@ function Home() {
         }
     return(
         <section className="h-screen bg-right relative inset-0 z-2">
-            <div className="bg-[url('./assets/back.jpg')] bg-cover h-screen bg-right abosolute inset-0 z-2 opacity-30"></div>
+            <div className="bg-[url('./assets/back.jpg')] bg-cover h-screen bg-right abosolute inset-0 z-2 opacity-40"></div>
                  
               <div className="m-15 ml-30 max-[480px]:m-5 max-[480px]:mt-45 absolute inset-0 z-5 min-[480px]:mt-60">
                   <p className="text-2xl mb-4 max-[480px]:text-xl max-[480px]:font-[100]">Welcome to the</p>
